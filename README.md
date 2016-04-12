@@ -1,13 +1,7 @@
-# ES6和React的规范在实践中仍然在不断改进，此处放弃跟进维护。建议大家直接在开发环境中使用[airbnb的eslint规范](https://www.npmjs.com/package/eslint-config-airbnb)。
 
 # React Native 代码规范
 
-> 本规范是基于airbnb的[react代码规范](https://github.com/airbnb/javascript/tree/master/react)与广发证券前端团队的[ES6代码规范](https://github.com/gf-rd/es6-coding-style)修改而成。感谢这两个团队！
-
 > 本规范主要用于React Native项目，原则是提升效率、规避风险。
-
-> 另有[React Native项目结构规范](https://github.com/sunnylqm/react-native-project-structure-guide)。
-
 
 ## 内容目录
 	
